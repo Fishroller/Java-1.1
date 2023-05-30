@@ -5,10 +5,6 @@ public class Main {
         int mile;
         amount = 24466;
         mile = amount / 20;
-        int bonus;
-        bonus = mile;
-        System.out.println("Бонусыне мили: " + bonus);
-
-
+        System.out.println("Бонусыне мили: " + mile);
     }
 }
